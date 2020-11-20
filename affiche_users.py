@@ -5,7 +5,6 @@
 #-- IUT Viletaneuse, Groupe Vert 2020-2021 : SYAGES PROJECT
 #--            Abdou KANDJI
 #-- Base de données : `bdd_syages`
-#-- Structure de la table `absenceretard`
 
 import random
 from  random import randint, sample

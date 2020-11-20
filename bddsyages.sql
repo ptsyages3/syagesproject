@@ -7,6 +7,10 @@
 -- Version du serveur :  5.7.31
 -- Version de PHP : 7.3.21
 
+-- IUT Viletaneuse, Groupe Vert 2020-2021 : SYAGES PROJECT
+--            Abdou KANDJI
+-- Base de données : `bdd_syages`
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";

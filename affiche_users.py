@@ -2,7 +2,10 @@
 # coding: utf-8
 
 # In[2]:
-
+#-- IUT Viletaneuse, Groupe Vert 2020-2021 : SYAGES PROJECT
+#--            Abdou KANDJI
+#-- Base de données : `bdd_syages`
+#-- Structure de la table `absenceretard`
 
 import random
 from  random import randint, sample
@@ -12,7 +15,7 @@ import time
 tableau_prenoms=[]
 tableau_noms=[]
 
-tab_matieres=["maths","francais","anglais","physique","informatique","langue"]
+tab_matieres=["maths","francais","anglais","physique","informatique","svt"]
 
 def extraire_personnes():
     # lecture noms et prenoms
